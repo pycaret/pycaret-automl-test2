@@ -1,4 +1,4 @@
 # pycaret-automl-test2
 pycaret-automl-temp
 
-[![Moez Ali Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=moez@pycaret.org)](https://medium.com/@moez_62905)
+[![Harshal Jadhav Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=harshalrj25)](https://medium.com/@harshalrj25)
